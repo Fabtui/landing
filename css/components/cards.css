@@ -1,0 +1,15 @@
+.container h2 {
+  opacity: 0.8;
+  font-size: 40px;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 auto;
+}
+
+.card img {
+  width: 250px;
+  height: 250px;
+}

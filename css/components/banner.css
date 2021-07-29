@@ -1,0 +1,17 @@
+.banner {
+  background-image: url(../../images/background.png);
+  background-position: center;
+  background-size: cover;
+  color: aliceblue;
+  text-shadow: 1px 1px 5px black;
+  padding: 30px 0 60px 0;
+}
+
+.banner h1 {
+  font-size: 70px;
+}
+
+.banner p {
+  font-size: 25px;
+  opacity: 0.8;
+}
